@@ -903,18 +903,18 @@ tabSetup:
       - '<color=0xFFFFFFFF><fontsize=12>✈</fontsize> --- Travel: Basic</color>'
 - - 1
   - - - bracket
-      - '<color=0xFFFF6666><fontsize=12>✥</fontsize> --- PvP: Basic (+Neut +NPC)</color>'
+      - null
     - - name
       - '<fontsize=11><color=0xFFFF6666><b>  Combat  </b></color></fontsize>'
     - - overview
       - '<color=0xFFFF6666><fontsize=12>✥</fontsize> --- PvP: Basic (+Neut +NPC)</color>'
 - - 2
   - - - bracket
-      - '<color=0xFFFF6666><fontsize=12>✥</fontsize> Target: Drones</color>'
+      - null
     - - name
-      - '<fontsize=11><color=0x0xFFCC66FF><b>  Fleet  </b></color></fontsize>'
+      - '<fontsize=11><color=0xFFCC66FF><b>  Fleet  </b></color></fontsize>'
     - - overview
-      - '<color=0xFFFF6666><fontsize=12>✥</fontsize> Target: Drones</color>'
+      - '<color=0xFFFF6666><fontsize=12>✥</fontsize> --- PvP: Fleet+Enemy (+Neut +NPC)</color>'
 - - 3
   - - - bracket
       - '<color=0xFFFD9666><fontsize=12>✜</fontsize> PvE: Salvage/Loot</color>'
@@ -931,18 +931,18 @@ tabSetup:
       - '<color=0xFF66CCFF><fontsize=12>✪</fontsize> --- Friendly: All (+Dro)</color>'
 - - 5
   - - - bracket
-      - '<color=0xFF66CCFF><fontsize=12>✪</fontsize> --- Friendly: All (+Dro)</color>'
+      - '<color=0xFFFF6666><fontsize=12>✥</fontsize> Target: Drones</color>'
     - - name
-      - '<fontsize=11><color=0xFF66CCFF><b>  Friendly  </b></color></fontsize>'
+      - '<fontsize=11><color=0xFFCC66FF><b>  Drones  </b></color></fontsize>'
     - - overview
-      - '<color=0xFF66CCFF><fontsize=12>✪</fontsize> --- Friendly: All (+Dro)</color>'
+      - '<color=0xFFFF6666><fontsize=12>✥</fontsize> Target: Drones</color>'
 - - 6
   - - - bracket
-      - '<color=0xFF66CCFF><fontsize=12>✪</fontsize> --- Friendly: All (+Dro)</color>'
+      - null
     - - name
-      - '<fontsize=11><color=0xFF66CCFF><b>  Friendly  </b></color></fontsize>'
+      - '<fontsize=11><color=0xFF66CCFF><b>  Bla  </b></color></fontsize>'
     - - overview
-      - '<color=0xFF66CCFF><fontsize=12>✪</fontsize> --- Friendly: All (+Dro)</color>'
+      - null
 - - 7
   - - - bracket
       - '<color=0xFF66FF66><fontsize=12>➲</fontsize> Extra: Podsaver (!)</color>'
