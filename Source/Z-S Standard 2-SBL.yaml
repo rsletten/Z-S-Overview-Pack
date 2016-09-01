@@ -942,7 +942,7 @@ tabSetup:
     - - name
       - '<fontsize=11><color=0xFF66CCFF><b>  Bla  </b></color></fontsize>'
     - - overview
-      - null
+      - defaults
 - - 7
   - - - bracket
       - '<color=0xFF66FF66><fontsize=12>➲</fontsize> Extra: Podsaver (!)</color>'
