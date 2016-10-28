@@ -523,7 +523,7 @@ tabSetup:
       - '<color=0xFFFFFFFF>✈ --- Travel: All</color>'
 - - 1
   - - - bracket
-      - '<color=0xFFFF6666>✥ --- PvP: Basic (+Neut +NPC)</color>'
+      - '<color=0xFFFF6666><fontsize=12>✥</fontsize> --- PvP: Fleet+Enemy (+Neut +NPC)</color>'
     - - name
       - '<fontsize=12><color=0xFF66CCFF><b> Z-S Custom loaded! </b></color></fontsize>
 
@@ -531,7 +531,7 @@ tabSetup:
 
         <fontsize=12><color=0xFF66FF66><b> • Apply a Layout to finish </b></color></fontsize>'
     - - overview
-      - '<color=0xFFFF6666>✥ --- PvP: Basic (+Neut +NPC)</color>'
+      - '<color=0xFFFF6666><fontsize=12>✥</fontsize> --- PvP: Fleet+Enemy (+Neut +NPC)</color>'
 userSettings:
 - - applyOnlyToShips
   - false
