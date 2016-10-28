@@ -1096,7 +1096,7 @@ tabSetup:
   - - - bracket
       - null
     - - name
-      - '<fontsize=11><color=0xFF66CCFF><b>  Bla  </b></color></fontsize>'
+      - '<fontsize=11><color=0xFF66CCFF><b>  Custom  </b></color></fontsize>'
     - - overview
       - default
 - - 7

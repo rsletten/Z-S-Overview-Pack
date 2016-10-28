@@ -525,7 +525,7 @@ tabSetup:
   - - - bracket
       - '<color=0xFFFD9666>✥ Target: Frig/Dest</color>'
     - - name
-      - '<fontsize=12><color=0xFF66CCFF><b> Z-S Fleet loaded! </b></color></fontsize>
+      - '<fontsize=12><color=0xFF66CCFF><b> Z-S Custom loaded! </b></color></fontsize>
 
         <fontsize=12><color=0xFFFF6666><b> • Apply another Preset Pack, or </b></color></fontsize>
 
