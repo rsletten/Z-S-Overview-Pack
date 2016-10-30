@@ -1,3 +1,20 @@
+### Few Notes on my version --rsletten
+
+My changes are in
+- Z-S Custom
+- Z-S Custom 2BL
+
+The order of import is
+- Core
+- D-Scan Extended
+- Friendly Extended
+- PvE Extended
+- PvP Basic
+- PvP Extended (1/2)
+- PvP Extended (2/2)
+- Custom
+- Custom 2BL
+
 # Zirio-Syundai Special Overview
 ### Overview Pack for EVE Online
 

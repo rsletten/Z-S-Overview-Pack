@@ -1052,14 +1052,14 @@ stateColorsNameList:
 tabSetup:
 - - 0
   - - - bracket
-      - '<color=0xFFFFFFFF>✈ --- Travel: All</color>'
+      - null
     - - name
       - '<fontsize=13><color=0xFFFFFFFF><b>  ✈  </b></color></fontsize>'
     - - overview
       - '<color=0xFFFFFFFF>✈ --- Travel: All</color>'
 - - 1
   - - - bracket
-      - '<color=0xFFFF6666>✥ --- PvP: Basic (+Neut +NPC)</color>'
+      - null
     - - name
       - '<fontsize=11><color=0xFFFF6666><b>  Combat  </b></color></fontsize>'
     - - overview
@@ -1073,21 +1073,21 @@ tabSetup:
       - '<color=0xFFFF6666><fontsize=12>✥</fontsize> --- PvP: Fleet+Enemy (+Neut +NPC)</color>'
 - - 3
   - - - bracket
-      - '<color=0xFFFFFF66>✜ PvE: Salvage/Loot</color>'
+      - null
     - - name
       - '<fontsize=11><color=0xFFD38FFD><b>  Misc  </b></color></fontsize>'
     - - overview
       - '<color=0xFFFFFF66>✜ PvE: Salvage/Loot</color>'
 - - 4
   - - - bracket
-      - '<color=0xFF66CCFF>✪ --- Friendly: All (-Dro)</color>'
+      - null
     - - name
       - '<fontsize=11><color=0xFF66CCFF><b>  Friendly  </b></color></fontsize>'
     - - overview
       - '<color=0xFF66CCFF>✪ --- Friendly: All (-Dro)</color>'
 - - 5
   - - - bracket
-      - '<color=0xFFFD9666>✥ Target: Drones</color>'
+      - null
     - - name
       - '<fontsize=11><color=0xFFFD9666><b>  Targets  </b></color></fontsize>'
     - - overview
@@ -1101,7 +1101,7 @@ tabSetup:
       - default
 - - 7
   - - - bracket
-      - '<color=0xFF66FF66><fontsize=12>➲</fontsize> Extra: Podsaver (!)</color>'
+      - null
     - - name
       - '<fontsize=11><color=0xFF66FF66><b>  Warpout!  </b></color></fontsize>'
     - - overview
