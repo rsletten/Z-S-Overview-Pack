@@ -10,7 +10,7 @@ It's not just me developing the pack, it's all of us working together to reach t
 - And a special shout out to the players that thought I should be rewarded, thank you all very much!
 
 ## Top Donators
-- **Whizzard** - 2 PLEX (2.406.000.000 ISK)
+♕ **Whizzard** - 2 PLEX (2.406.000.000 ISK)
 
 1. **SniggWaffe** - 600.000.000 ISK
 2. **Kr0nK** - 510.000.000 ISK (First to donate!)
@@ -23,7 +23,7 @@ It's not just me developing the pack, it's all of us working together to reach t
 9. **Ethan Zoromir** - 100.000.000 ISK
 10. **Self Ctrl** - 100.000.000 ISK
 11. **HotterThanYou2** - 50.000.000 ISK
-12. **Ultimate-Pilot Destiny** - 39.168.046 ISK
+12. **Ultimate-Pilot Destiny** - 49.168.046 ISK
 13. **Denali TheGreatOne** - 25.000.000 ISK
 14. **Mauger** - 25.000.000 ISK
 15. **Chekman** - 25.000.000 ISK
@@ -34,3 +34,4 @@ It's not just me developing the pack, it's all of us working together to reach t
 20. **Stueey Yaken** - 5.000.000 ISK
 21. **Parzon Hrungy** - 1.000.000 ISK
 22. **Momoe Kawaguchi** - 500.000 ISK
+23. **Black Romero** - 150.000 ISK
