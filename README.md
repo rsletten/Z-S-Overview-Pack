@@ -40,7 +40,7 @@ If you're familiar with SaraShawa, it shouldn't take too long to adjust to the c
 - Visit us on: **[Slack](https://tweetfleet.slack.com/messages/zs-overview-dev/) - [Twitter](https://twitter.com/Arziel1992) - [Discord](http://discord.gg/NSfFKcx)**
 - Changelog: **[Here](https://github.com/Arziel1992/Z-S-Overview-Pack/blob/master/CHANGELOG.md)**
 - Feedback: **[Here](http://goo.gl/forms/h4rTeZCHNorqEsyx2)**
-- Top Donators: **[Here](https://github.com/Arziel1992/Z-S-Overview-Pack/blob/master/DONATORS.md)**
+- Top Donors: **[Here](https://github.com/Arziel1992/Z-S-Overview-Pack/blob/master/DONORS.md)**
 - FAQ (WIP): **[Here](https://github.com/Arziel1992/Z-S-Overview-Pack/blob/master/FAQ.md)**
 - Milestones: **[Here](https://github.com/Arziel1992/Z-S-Overview-Pack/blob/master/MILESTONES.md)**
 
