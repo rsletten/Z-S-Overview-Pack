@@ -10,8 +10,10 @@ It's not just Deuce and me (Zirio) developing the pack, it's all of us working t
 - And a special shout out to the players that thought we should be rewarded, thank you all very much!
 
 ## Top Donors
-♕ **Whizzard** - 2 PLEX (2.406.000.000 ISK)
 
+### ♕ **Whizzard** - 2 PLEX (2.406.000.000 ISK)
+
+1. **s33ker** - 1.000.000.000 ISK
 1. **SniggWaffe** - 600.000.000 ISK
 1. **Kr0nK** - 510.000.000 ISK (First to donate!)
 1. **Alberdina** - 500.000.000 ISK
@@ -25,6 +27,7 @@ It's not just Deuce and me (Zirio) developing the pack, it's all of us working t
 1. **Xorium** - 100.000.000 ISK
 1. **HotterThanYou2** - 50.000.000 ISK
 1. **Aedron** - 50.000.000 ISK
+1. **Lord Running Clam** - 50.000.000 ISK
 1. **Ultimate-Pilot Destiny** - 49.168.046 ISK
 1. **w1ndstrike** - 40.000.000 ISK
 1. **Denali TheGreatOne** - 25.000.000 ISK
