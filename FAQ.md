@@ -15,21 +15,13 @@
 > - ~~Cannot input capital letters.~~ Added on the September 2016 release.
 > - Cannot input HTML tags (`<color>` & `<fontsize>`):
 >   - There is not an easy solution to this aside from saving as a new preset with default style and shorter name.  
-<<<<<<< HEAD
->   - The "not so easy" solution is to save the preset "as is", export the Overview Profile and edit the Preset name on the .YAML file directly.  
-=======
 >   - The "not so easy" solution is to save the preset "as is", export the Overview Profile and edit the Preset name on the .YAML file directly with a text editor.  
->>>>>>> f9934ba517927608fe6dfc37dc70dfe9d7005708
         - Replace `&lt;` and `&gt;` with `<` and `>` respectively in the .YAML file.  
 > - We will reach out to CCP to suggest a small feature patch to widen/remove these limits.
 
 - ##### My Ship Brackets aren't loading?
 > This is a known issue due to bad a sync between the Overview profile and the game.  
-<<<<<<< HEAD
-> To fix it you need to open your `Overview Settings` window and cycle a few times between the menu tabs, this will force a resync.
-=======
 > To fix it you need to open your `Overview Settings` window and click the `Ships` tab, this will force a resync.
->>>>>>> f9934ba517927608fe6dfc37dc70dfe9d7005708
 
 - ##### How to give you feedback?
 > The prefered method is to use the **[Google Form Link](http://goo.gl/forms/h4rTeZCHNorqEsyx2)** next to the **Green Feedback Text**, both in the **MOTD** and the **Mailing List** welcoming mail.  

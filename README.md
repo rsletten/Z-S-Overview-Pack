@@ -1,20 +1,3 @@
-### Few Notes on my version --rsletten
-
-My changes are in
-- Z-S Custom
-- Z-S Custom 2BL
-
-The order of import is
-- Core
-- D-Scan Extended
-- Friendly Extended
-- PvE Extended
-- PvP Basic
-- PvP Extended (1/2)
-- PvP Extended (2/2)
-- Custom
-- Custom 2BL
-
 <img src="Images/Z-S Logo 2.png" align="right" />
 # Z-S Overview Pack
 ### Overview Pack for EVE Online
@@ -41,10 +24,7 @@ If you're familiar with SaraShawa, it shouldn't take too long to adjust to the c
 - Updated: **2017.01.01**
 
 #### Links
-<<<<<<< HEAD
-=======
 
->>>>>>> f9934ba517927608fe6dfc37dc70dfe9d7005708
 - In-game Mailing List: **Z-S Overview**
 - Visit us on: **[Slack](https://tweetfleet.slack.com/messages/zs-overview-dev/) - [Twitter](https://twitter.com/Arziel1992) - [Discord](http://discord.gg/NSfFKcx)**
 - Changelog: **[Here](https://github.com/Arziel1992/Z-S-Overview-Pack/blob/master/CHANGELOG.md)**
@@ -54,12 +34,6 @@ If you're familiar with SaraShawa, it shouldn't take too long to adjust to the c
 - Milestones: **[Here](https://github.com/Arziel1992/Z-S-Overview-Pack/blob/master/MILESTONES.md)**
 
 ## How to install
-<<<<<<< HEAD
-Be sure to have a quick read of `EVE University's Overview guide` **[Here](http://wiki.eveuniversity.org/Overview_Guide)**, either to learn how everything works or have a reminder.
-#### Option 1: In-game, from `Z-S Overview` chat channel:
-1. Open up your Overview Settings ( ≡ button at top left of the Overview window).  
-![Step 1](/Images/Step 1a.png "Step 1")  
-=======
 #### Must Read!
 
 - Be sure to have a quick read of **[EVE University's Overview guide](http://wiki.eveuniversity.org/Overview)**, either to learn how everything works or have a reminder.
@@ -79,19 +53,14 @@ Be sure to have a quick read of `EVE University's Overview guide` **[Here](http:
 1. Open up your Overview Settings ( ≡ button at top left of the Overview window).  
 ![Step 1](/Images/Step 1a.png "Step 1")
 
->>>>>>> f9934ba517927608fe6dfc37dc70dfe9d7005708
 2. Go to the "Misc" tab and click `Reset All Overview Settings`  
 ![Step 2](/Images/Step 1b.png "Step 2")  
     - You **MUST** do this the first time you install.
     - This prevents any weirdness that may be caused by any changes already made to the overview.
-<<<<<<< HEAD
-3. Apply the `Z-S Core` preset pack FIRST. This is the only preset pack required. When combined with a Tab Layout, it includes the following presets:
-=======
 
 3. Apply the `Z-S Core` preset pack FIRST by clicking on its link.  
 This is the only **required** preset pack.  
 When combined with a Tab Layout, it includes the following presets for a minimal setup:
->>>>>>> f9934ba517927608fe6dfc37dc70dfe9d7005708
 	- Core Presets  
     ![Core + Layout](/Images/Core + Layout.png "Core Presets")  
 	- All **Travel**, **Warpout** & **Brackets** presets
@@ -99,13 +68,9 @@ When combined with a Tab Layout, it includes the following presets for a minimal
 	- **PvP: Basic** & **Target: Drones**
 	- **Friendly: All** & **Friendly Fleet**
 	- **D-Scan: All**
-<<<<<<< HEAD
-4. (Optional) Apply any of these Optional preset packs you may need for more specialized presets:
-=======
 
 4. (Optional) Apply any of the following Optional preset packs by clicking on their links.  
 You may need them for more specialized presets:
->>>>>>> f9934ba517927608fe6dfc37dc70dfe9d7005708
 	- `Z-S PvE Extended` contains presets for Anoms/Ratting, Incursion, Mining, and Show Drones.
 	- `Z-S PvP Basic` contains presets for Faction Warfare, Ships Only, Bombing Warpouts, Deployables, NPSI, Structures, and Wartargets.
 	- `Z-S PvP Extended` packs include Target presets for specific categories, from Fighters to Frigates to Logi to Titans. Each pack contains half the categories and should be installed together.
@@ -114,16 +79,11 @@ You may need them for more specialized presets:
 	- _You can go back to add in additional packs at any time without reloading the entire pack. Simply click on a pack to add, then repeat step 5 below._
 	- Note the instructions on the tab.  
     ![Pack Loaded](/Images/Pack Loaded.png "Pack Loaded!")  
-<<<<<<< HEAD
-	![PvP Basic](/Images/PvP Basic.png "Basic Full Loadout") ![PvP Extended](/Images/PvP Extended.png "Extended Full Loadout")  
-5. To finish and set up the tabs, apply a Tab Layout. Standard has each tab named for a purpose, and Compact replaces most of the names with numbers or sorter names for reduced tab width. 2BL denotes 2 Bracket Lines, while 1BL denotes 1 Bracket Line.
-=======
 	![PvP Basic](/Images/PvP Basic.png "Basic Full Loadout") ![PvP Extended](/Images/PvP Extended.png "Extended Full Loadout")
 
 5. To finish and set up the tabs, apply a Tab Layout by clicking on their links.  
 Standard has each tab named for a purpose, and Compact replaces most of the names with numbers or shorter names for reduced tab width.  
 2BL denotes 2 Bracket Lines, while 1BL denotes 1 Bracket Line.
->>>>>>> f9934ba517927608fe6dfc37dc70dfe9d7005708
  - `Standard` tab layout  
  ![Standard Tabs](/Images/Standard Tabs.png "Standard")  
  - `Compact` tab layout  
@@ -145,20 +105,14 @@ Standard has each tab named for a purpose, and Compact replaces most of the name
         - Click the "Releases" link near the "Clone or Download" button.
         - Go to the release you are interested in (latest release is recommneded).
         - Scroll down to `Downloads` of said release and download the `Z-S-...-.zip` file.
-<<<<<<< HEAD
-=======
 
->>>>>>> f9934ba517927608fe6dfc37dc70dfe9d7005708
 2. Once downloaded in the folder of your preference, extract the .zip file contents in a folder of your preference.
 
 3. Go to the most recent version folder and:
     - Copy the `Z-S Full Stylized.yaml` file for the complete pre-stylized overview.
     - Or copy the `Z-S Full Unstylized.yaml` file for the complete default-style overview.
     - Or copy the specific packs you want/need, alongside one or all layouts.
-<<<<<<< HEAD
-=======
 
->>>>>>> f9934ba517927608fe6dfc37dc70dfe9d7005708
 4. Go to `C:\Users\YourName\Documents\EVE\Overview` folder and paste the copied files there.
     - If the folder doesn't exist, you can either create it manually.
     - Or export your current overview (recommended) and it will be created automatically.
@@ -167,12 +121,6 @@ Standard has each tab named for a purpose, and Compact replaces most of the name
         - This will save your current overview and its settings.
 
 5. Start the game and open up your Overview Settings ( ≡ button at top left of the Overview window).
-<<<<<<< HEAD
-6. Go to the `Misc` tab:
-    - Click `Reset All` to have the default settings loaded.
-    - Follow steps 5-6 and click `Import Overview Settings`
-7. Select one of the copied files on the left list, click `Check All` on the top middle of the window, then click `Import`
-=======
 
 6. Go to the `Misc` tab:
     - Click `Reset All` to have the default settings loaded.
@@ -180,7 +128,6 @@ Standard has each tab named for a purpose, and Compact replaces most of the name
 
 7. Select one of the copied files on the left list, click `Check All` on the top middle of the window, then click `Import`
 
->>>>>>> f9934ba517927608fe6dfc37dc70dfe9d7005708
 8. Repeat step 7 if you are importing individual packs + layouts instead of a Full profile.
 	- _Some features might not show correctly at first, It may be necessary to Dock and then Undock at any station to reload the UI to apply all changes._
 
@@ -267,14 +214,11 @@ Standard has each tab named for a purpose, and Compact replaces most of the name
 
 - All 4 Layouts (Standard 2BL & 1BL, Compact 2BL & 1BL)
 
-<<<<<<< HEAD
-=======
         ⌘ Brackets: Combat/Targets/Friendly (+Dro)
         ⌘ Brackets: Combat/Targets/Friendly (-Dro)
         ⌘ Brackets: Misc
         ⌘ Brackets: Travel
         ⌘ Brackets: Warpout (!)
->>>>>>> f9934ba517927608fe6dfc37dc70dfe9d7005708
         ✈ Travel (-Ship +Sta)
         ✥ --- PvP: Basic (+Neut +NPC)
         ✥ Target: Drones
@@ -299,21 +243,15 @@ Standard has each tab named for a purpose, and Compact replaces most of the name
 
 ## Important!
 ##### If you clone and/or fork the repository!
-<<<<<<< HEAD
-=======
 
->>>>>>> f9934ba517927608fe6dfc37dc70dfe9d7005708
 - Starting from Version v2.66.2012, versioning has been standardized (more information on the **[Changelog](https://github.com/Arziel1992/Z-S-Overview-Pack/blob/master/CHANGELOG.md)** file)  
     - The inclusion of version tags and consistant numbering has been implemented, will allow to keep a better track of the modifications.  
 - If you plan to clone and/or fork the repository, it is recommended to do it from this version forward.  
 - Commit Squashing WILL NOT be done randomly from now on, so don't worry about an inconsistent history.  
     - If a Commit Squash happens, we will notify all the cloners/forkers with anticipation.  
     - Please send an in-game mail to `Zirio` notifying him that you are a cloner/forker so he can notify you back in case of a Commit Squash.  
-<<<<<<< HEAD
-=======
 
 ## License
->>>>>>> f9934ba517927608fe6dfc37dc70dfe9d7005708
 
 Overview Pack licensed under "GNU GENERAL PUBLIC LICENSE - Version 3, 29 June 2007"  
 Further documentation in the **[LICENSE](https://github.com/Arziel1992/Z-S-Overview-Pack/blob/master/LICENSE)** file.

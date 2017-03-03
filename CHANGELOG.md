@@ -20,8 +20,6 @@
 
 ##### --- Standard Versions ---
 
-<<<<<<< HEAD
-=======
 ##### Version v5.11.0424 - 118.10 - _Welcome 119!_
 >1. Updated Layouts:
     - Moved `⌘ Brackets: Combat/Targets/Friendly (+Dro)` from `Z-S Core` to all 4 Layouts.
@@ -76,7 +74,6 @@
             - `※ D-Scan: Hunter (+Dro / Offensive)`
             - `※ D-Scan: Hunter (-Dro / Offensive)`
 
->>>>>>> f9934ba517927608fe6dfc37dc70dfe9d7005708
 ##### Version v5.01.0313 - _Ascension_ - _Kr0nK Resync_
 >1. Updated ship brackets styles to allow the activation of `Ship Name`, mimicking the naming convention of Star Trek, i.e **USS _Enterprise_**
     - `Corp Ticker + Ship Name`
