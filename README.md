@@ -1,4 +1,5 @@
-<img src="Images/Z-S Logo 2.png" align="right" />
+<img src="Images/Z-S_Logo_2.png" align="right" />  
+
 # Z-S Overview Pack
 ### Overview Pack for EVE Online
 
@@ -20,8 +21,9 @@ If you're familiar with SaraShawa, it shouldn't take too long to adjust to the c
 
 #### Current Version: v5.11.0424
 
-- For Release: **118.10**
 - Updated: **2017.01.01**
+- For Release: **118.10**
+- Compatible: **119.3**
 
 #### Links
 
@@ -44,17 +46,21 @@ If you're familiar with SaraShawa, it shouldn't take too long to adjust to the c
 
 - Be sure to check our **[FAQ](https://github.com/Arziel1992/Z-S-Overview-Pack/blob/master/FAQ.md)** to solve the most common issues you might find when attempting to install and/or edit Z-S Overview Pack.
 
-#### Method 1: Video Tutorial
+#### Method 1: Video Tutorials
 
-- Follow this **[Video Tutorial](https://www.youtube.com/watch?v=lTmXDiEgb7s)** kindly made by **ERJ145a**.
+- Follow this in-depth **[Video Tutorial](https://www.youtube.com/watch?v=lTmXDiEgb7s)** kindly made by **ERJ145a** - [English]
+
+- **OR** Follow this **[Quick Spotlight](https://www.youtube.com/watch?v=pJApc_E66Es)** kindly made by **AHandinit Flo** - [English]
+
+- **OR** Follow this **[Quick Spotlight](https://www.youtube.com/watch?v=3TdCvC38qI0)** kindly made by **Grie** - [Czech]
 
 #### Method 2: In-game, from `Z-S Overview` chat channel
 
 1. Open up your Overview Settings ( ≡ button at top left of the Overview window).  
-![Step 1](/Images/Step 1a.png "Step 1")
+![Step 1](Images/Step_1a.png "Step 1")
 
 2. Go to the "Misc" tab and click `Reset All Overview Settings`  
-![Step 2](/Images/Step 1b.png "Step 2")  
+![Step 2](Images/Step_1b.png "Step 2")  
     - You **MUST** do this the first time you install.
     - This prevents any weirdness that may be caused by any changes already made to the overview.
 
@@ -62,7 +68,7 @@ If you're familiar with SaraShawa, it shouldn't take too long to adjust to the c
 This is the only **required** preset pack.  
 When combined with a Tab Layout, it includes the following presets for a minimal setup:
 	- Core Presets  
-    ![Core + Layout](/Images/Core + Layout.png "Core Presets")  
+    ![Core + Layout](Images/Core_+_Layout.png "Core Presets")  
 	- All **Travel**, **Warpout** & **Brackets** presets
 	- **PvE: Basic** & **PvE: Salvage/Loot**
 	- **PvP: Basic** & **Target: Drones**
@@ -78,20 +84,21 @@ You may need them for more specialized presets:
 	- `Z-S D-Scan Extended` contains more finely-tuned presets specifically for the D-Scan filter.
 	- _You can go back to add in additional packs at any time without reloading the entire pack. Simply click on a pack to add, then repeat step 5 below._
 	- Note the instructions on the tab.  
-    ![Pack Loaded](/Images/Pack Loaded.png "Pack Loaded!")  
-	![PvP Basic](/Images/PvP Basic.png "Basic Full Loadout") ![PvP Extended](/Images/PvP Extended.png "Extended Full Loadout")
+    
+    ![Pack Loaded](Images/Pack_Loaded.png "Pack Loaded!")  
+    ![PvP Basic](Images/PvP_Basic.png "Basic Full Loadout")  ![PvP Extended](Images/PvP_Extended.png "Extended Full Loadout")  
 
 5. To finish and set up the tabs, apply a Tab Layout by clicking on their links.  
 Standard has each tab named for a purpose, and Compact replaces most of the names with numbers or shorter names for reduced tab width.  
 2BL denotes 2 Bracket Lines, while 1BL denotes 1 Bracket Line.
  - `Standard` tab layout  
- ![Standard Tabs](/Images/Standard Tabs.png "Standard")  
+ ![Standard Tabs](Images/Standard_Tabs.png "Standard")  
  - `Compact` tab layout  
- ![Compact Tabs](/Images/Compact Tabs.png "Compact")  
- - `2BL` Brackets  
- ![2 Bracket Lines](/Images/2 Bracket Lines.png "2BL")  
+ ![Compact Tabs](Images/Compact_Tabs.png "Compact")  
  - `1BL` Brackets  
- ![1 Bracket Line](/Images/1 Bracket Line.png "1BL")  
+ ![1 Bracket Line](Images/1_Bracket_Line.png "1BL") 
+ - `2BL` Brackets  
+ ![2 Bracket Lines](Images/2_Bracket_Lines.png "2BL")   
 	- You can alternate between Layouts at any time without reloading the entire pack by clicking on their links.
 	- _Some features might not show correctly at first, it may be necessary to open the Overview Settings again, then select the Ships tab to reload the UI to force a resync and apply all changes._
 
@@ -239,7 +246,14 @@ Standard has each tab named for a purpose, and Compact replaces most of the name
 
 #### Pack colors
 
-![Colors](/Images/colors.jpg "Colors")
+![Colors](Images/Colors.png "Colors")
+
+## Popular mods
+Since we can't possibly please everyone with a perfect overview solution, players have taken upon themselves to make very useful modifications to the pack.
+
+Be sure to check them out!
+
+- **[Z-S-Overview-Kafferton-Mod](https://github.com/ChemicalRascal/Z-S-Overview-Kafferton-Mod)** made by **Sally Kafferton**
 
 ## Important!
 ##### If you clone and/or fork the repository!
