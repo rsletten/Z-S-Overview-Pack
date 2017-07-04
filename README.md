@@ -1,4 +1,4 @@
-<img src="Images/Z-S_Logo_2.png" align="right" />  
+<img src="Images/Z-S_Logo_2.png" align="right" />
 
 # Z-S Overview Pack
 ### Overview Pack for EVE Online
@@ -9,31 +9,56 @@ What started as a stop-gap measure back in early 2016 to bring the SaraShawa Ove
 
 If you're familiar with SaraShawa, it shouldn't take too long to adjust to the changes.
 
-**Zirio** - YAML Coding & Pack Maintenence  
+<img src="Images/Zirio.jpg" align="left" height="60" width="60" />
+
+&nbsp;  
+**Zirio** - YAML Coding, Pack Maintenance & Long Term Updates  
+&nbsp;  
+<img src="Images/Deuce.jpg" align="left" height="60" width="60" />
+
 **Deuce Syundai** - Design & Text Formatting
 
-##### New features include:
+&nbsp;
+
+#### New features include:
 
 - Choice of Full-Size or Compact 6-Tab Layouts that can be swapped at any time without reloading the entire pack.
 - Modular Setup: Load the Preset Packs you need.
 - New and ever evolving presets for all activities on EVE, including dedicated Faction Warfare and Incursion presets among others.
 - Color-coded presets by category for improved ease of selection.
 
-#### Current Version: v5.11.0424
+___
 
-- Updated: **2017.01.01**
-- For Release: **118.10**
-- Compatible: **119.3**
+#### Current Version: v6.16.0008
+
+- Updated: **2017.05.09**
+- For Release: **119.5**
+- Compatible: **119.5**
 
 #### Links
 
-- In-game Mailing List: **Z-S Overview**
-- Visit us on: **[Slack](https://tweetfleet.slack.com/messages/zs-overview-dev/) - [Twitter](https://twitter.com/Arziel1992) - [Discord](http://discord.gg/NSfFKcx)**
+- In-game:
+    - Mailing List: **Z-S Overview**
+    - Chat Channel: **Z-S Overview**
+- Visit us on:
+    - **[Slack](https://tweetfleet.slack.com/messages/zs-overview-dev/)**
+    - **[Twitter](https://twitter.com/Arziel1992)**
+    - **[Discord](http://discord.gg/NSfFKcx)**
 - Changelog: **[Here](https://github.com/Arziel1992/Z-S-Overview-Pack/blob/master/CHANGELOG.md)**
 - FAQ: **[Here](https://github.com/Arziel1992/Z-S-Overview-Pack/blob/master/FAQ.md)**
-- Feedback: **[Here](http://goo.gl/forms/h4rTeZCHNorqEsyx2)**
+- Feedback:
+    - **[Feeback form](http://goo.gl/forms/h4rTeZCHNorqEsyx2)**
+    - **[Real-time feedback responses](https://goo.gl/etZH0J)**
 - Donors: **[Here](https://github.com/Arziel1992/Z-S-Overview-Pack/blob/master/DONORS.md)**
 - Milestones: **[Here](https://github.com/Arziel1992/Z-S-Overview-Pack/blob/master/MILESTONES.md)**
+
+#### BEWARE of our resident Troll on Z-S chat channel <3 !!!
+
+- **Lothar McPoopenshaft**  
+A good friend and tester of Z-S, keeps trolling players with an in-game link (*Lothar McPoopenshaft Overview*) that redirects back back to **Z-S Overview** chat channel.
+- We love him, our resident troll.
+
+___
 
 ## How to install
 #### Must Read!
@@ -48,7 +73,7 @@ If you're familiar with SaraShawa, it shouldn't take too long to adjust to the c
 
 #### Method 1: Video Tutorials
 
-- Follow this in-depth **[Video Tutorial](https://www.youtube.com/watch?v=lTmXDiEgb7s)** kindly made by **ERJ145a** - [English]
+- Follow this in-depth **[Video Tutorial](https://www.youtube.com/watch?v=l7kLIRGTq_Y)** kindly made by **ERJ145a** - [English]
 
 - **OR** Follow this **[Quick Spotlight](https://www.youtube.com/watch?v=pJApc_E66Es)** kindly made by **AHandinit Flo** - [English]
 
@@ -85,7 +110,8 @@ You may need them for more specialized presets:
 	- _You can go back to add in additional packs at any time without reloading the entire pack. Simply click on a pack to add, then repeat step 5 below._
 	- Note the instructions on the tab.  
     
-    ![Pack Loaded](Images/Pack_Loaded.png "Pack Loaded!")  
+    ![Pack Loaded](Images/Pack_Loaded.png "Pack Loaded!")
+    
     ![PvP Basic](Images/PvP_Basic.png "Basic Full Loadout")  ![PvP Extended](Images/PvP_Extended.png "Extended Full Loadout")  
 
 5. To finish and set up the tabs, apply a Tab Layout by clicking on their links.  
@@ -138,11 +164,15 @@ Standard has each tab named for a purpose, and Compact replaces most of the name
 8. Repeat step 7 if you are importing individual packs + layouts instead of a Full profile.
 	- _Some features might not show correctly at first, It may be necessary to Dock and then Undock at any station to reload the UI to apply all changes._
 
+___
 
 #### Packs, Layouts & Presets
 
 - Z-S Core
 
+        ⌘ Brackets: Combat/Targets/Friendly (-Dro)
+        ⌘ Brackets: Misc
+        ⌘ Brackets: Travel
         ➲ Extra: Align Points
         ✈ --- Travel: All
         ✈ Travel (+Ship -Sta)
@@ -171,7 +201,7 @@ Standard has each tab named for a purpose, and Compact replaces most of the name
         ✪ Friendly: Recons
         ✪ Friendly: SC/T
 
-- Z-S PvE Extended
+- Z-S PvE Advanced
 
         ✜ --- PvE: Basic (+Dro)
         ✜ --- PvE: Mission Filter (+LCO +LCS)
@@ -180,7 +210,7 @@ Standard has each tab named for a purpose, and Compact replaces most of the name
         ✜ PvE: Mining
         ✜ PvE: Ratting
 
-- Z-S PvP Basic
+- Z-S PvP Advanced
 
         ✥ --- PvP: Basic (+Neut -NPC)
         ✥ --- PvP: Basic (-Neut +NPC)
@@ -222,16 +252,13 @@ Standard has each tab named for a purpose, and Compact replaces most of the name
 - All 4 Layouts (Standard 2BL & 1BL, Compact 2BL & 1BL)
 
         ⌘ Brackets: Combat/Targets/Friendly (+Dro)
-        ⌘ Brackets: Combat/Targets/Friendly (-Dro)
-        ⌘ Brackets: Misc
-        ⌘ Brackets: Travel
         ⌘ Brackets: Warpout (!)
+        ➲ Extra: Podsaver (!)
         ✈ Travel (-Ship +Sta)
+        ✜ PvE: Salvage/Loot
         ✥ --- PvP: Basic (+Neut +NPC)
         ✥ Target: Drones
-        ✜ PvE: Salvage/Loot
         ✪ --- Friendly: All (-Dro)
-        ➲ Extra: Podsaver (!)
 
 #### Nomenclature
 
@@ -241,25 +268,68 @@ Standard has each tab named for a purpose, and Compact replaces most of the name
     - NPC:  Rat(s) - Non-Player Character(s)
     - Mod:  Module(s)
     - Sta:  Station(s) & Citadel(s)
-    - Offensive:    
-    - Defensive:    
+    - Offensive:    Active PvP (looking for engagements)
+    - Defensive:    Passive PvP (avoiding engagements)
 
 #### Pack colors
 
 ![Colors](Images/Colors.png "Colors")
 
-## Popular mods
+___
+
+## Popular Z-S mods
+
 Since we can't possibly please everyone with a perfect overview solution, players have taken upon themselves to make very useful modifications to the pack.
 
 Be sure to check them out!
 
-- **[Z-S-Overview-Kafferton-Mod](https://github.com/ChemicalRascal/Z-S-Overview-Kafferton-Mod)** made by **Sally Kafferton**
+- **[Z-S-Overview-Kafferton-Mod](https://github.com/ChemicalRascal/Z-S-Overview-Kafferton-Mod)** useful tweaks made by **Sally Kafferton**.
+
+## Up-to-date 3rd party Overview Packs
+
+You might not like Z-S's style, its presets and/or the whole pack just doesn't appeal to you.  
+
+Fear not! Other players have taken upon themselves to make Overview Packs in different flavours and/or for specific purposes.  
+
+Here are the most popular and up-to-date ones:  
+
+- **Charlie Parker Sidrat's Overview**  
+    Not found on any mailing list or website, simply contact **Sidrat Flush** in game, eve mail or a forum message for a copy. He strongly urges you to edit to suit your own play style.
+    
+    
+- **[EVE University Overview](https://wiki.eveuniversity.org/Installing_the_EVE_University_Overview)**  
+    Overview Pack made and maintained by EVE's most prestigious educational corporation, EVE University.  
+    New-player friendly, made to teach you the ropes of handling the Overview.
+    - In-game chat channel: **Overview.E-UNI**
+
+
+- **Kismeteer's Overview**  
+    This is a very simple, beginner friendly overview, with 5 tabs, and only 5 presets.  
+    As it's so small, it's distributed in-game only.  
+    - In-game chat channel: **Kissist**
+    - In-game Mailing List: **KisOver**
+
+## Legacy 3rd party Overview Packs
+
+The same as in real life, some things come and some things go, Overview Packs are no different.  
+Many players have made an effort to make and maintain very successful and useful Overview Packs but everyone gets tired at one point or take long breaks from EVE.  
+
+You all shall be remembered for your efforts so future Overview Pack creators can learn from past experiences.  
+
+- **[SaraShawa Overview Pack](https://www.reddit.com/r/Eve/comments/4b3rzx/sarashawa_overview_pack_version_9_released/)**  
+    The Overview Pack that continued Sarah's legacy, **Oh Takashawa** saw **Sarah's** great effort and set his goal to continue her work, making one of the best Overview Packs the players have used.
+    - In-game chat channel: **SaraShawa Overview**
+    - In-game Mailing List: **Overview** , **Overview2**, **Overview3** and **Overview4**
+
+
+- **[Sarah's Overview Pack](http://forums.ponywaffe.org/topic/1697-sarahs-overview-pack%E2%84%A2-rel-034/)**  
+    The Overview Pack that started it all, **Sarah Schneider** pioneered the Overview customization, giving a very important tool to PonyWaffe and many other players around the game to use while doing the combat and other tasks we all love in EVE.
 
 ## Important!
 ##### If you clone and/or fork the repository!
 
 - Starting from Version v2.66.2012, versioning has been standardized (more information on the **[Changelog](https://github.com/Arziel1992/Z-S-Overview-Pack/blob/master/CHANGELOG.md)** file)  
-    - The inclusion of version tags and consistant numbering has been implemented, will allow to keep a better track of the modifications.  
+    - The inclusion of version tags and consistent numbering has been implemented, will allow to keep a better track of the modifications.  
 - If you plan to clone and/or fork the repository, it is recommended to do it from this version forward.  
 - Commit Squashing WILL NOT be done randomly from now on, so don't worry about an inconsistent history.  
     - If a Commit Squash happens, we will notify all the cloners/forkers with anticipation.  
