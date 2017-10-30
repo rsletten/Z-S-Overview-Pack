@@ -117,14 +117,7 @@ presets:
   - - - alwaysShownStates
       - []
     - - filteredStates
-      - - 11
-        - 12
-        - 14
-        - 15
-        - 16
-        - 21
-        - 45
-        - 49
+      - []
     - - groups
       - - 6
         - 10
