@@ -1554,7 +1554,7 @@ tabSetup:
   - - - bracket
       - null
     - - name
-      - '<color=0xFF66CCFF><b>  Custom  </b></color>'
+      - '<color=0xFFFFFFFF><b>  Custom  </b></color>'
     - - overview
       - default
 - - 7
